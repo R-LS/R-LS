@@ -23,7 +23,7 @@ _Mar 2022 - Apr 2022_<br>
 > > •	Designed UI with Figma, of over 40 screens with animations, and created video to showcase app.
 
 
-**IS213 Enterprise Solution Development Project**<br>
+**IS213 Enterprise Solution Development Project** | [github](https://github.com/jacky-teo/OnlyArt)<br> 
 _Feb 2022 - Apr 2022_<br>
 
 > •	Collaborated with team of 6 to develop a subscription app comprised of microservices using Python, Flask, Javascript, SQL and Docker for deployment, that allows content creators to create content locked behind a paywall, and subscribers to engage with the content.
