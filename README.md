@@ -1,11 +1,11 @@
 ### Projects (2022)
 
-**IS442 Object Oriented Programming**	| [github](github.com/is212g4t5/learning-journey-planning-system)<br>
+**IS442 Object Oriented Programming**	<br>
 _Aug 2022 - Nov 2022_<br>
 
 > •	Collaborated with team of 6 to create a corporate pass loaning system with Springboot, Java, NextJS, ReactJS and MUI for Singapore Sports School as part of their employee welfare, which allows employees to make card bookings for attraction visits, admins to manage users, track card collection and return, and sends automated notifications.
-> > **Frontend Development**<br>
-> •	Devised and developed page skeleton code, common components in ReactJS, API integration with React Query and implementing security with route guarding and user access control with JWT Tokens in middleware.
+>>**Frontend Development**<br>
+ •	Devised and developed page skeleton code, common components in ReactJS, API integration with React Query and implementing security with route guarding and user access control with JWT Tokens in middleware.
 
 **IS212 Software Project Management**	| [github](github.com/is212g4t5/learning-journey-planning-system)<br>
 _Aug 2022 - Nov 2022_<br>
@@ -23,7 +23,7 @@ _Mar 2022 - Apr 2022_<br>
 > > •	Designed UI with Figma, of over 40 screens with animations, and created video to showcase app.
 
 
-**IS213 Enterprise Solution Development Project** | [video](youtu.be/-7wbLxnPB_U)<br>
+**IS213 Enterprise Solution Development Project**<br>
 _Feb 2022 - Apr 2022_<br>
 
 > •	Collaborated with team of 6 to develop a subscription app comprised of microservices using Python, Flask, Javascript, SQL and Docker for deployment, that allows content creators to create content locked behind a paywall, and subscribers to engage with the content.
