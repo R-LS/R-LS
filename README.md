@@ -7,7 +7,7 @@ _Aug 2022 - Nov 2022_<br>
 >>**Frontend Development**<br>
  •	Devised and developed page skeleton code, common components in ReactJS, API integration with React Query and implementing security with route guarding and user access control with JWT Tokens in middleware.
 
-**IS212 Software Project Management**	| [github](github.com/is212g4t5/learning-journey-planning-system)<br>
+**IS212 Software Project Management**	| [github](https://github.com/is212g4t5/learning-journey-planning-system)<br>
 _Aug 2022 - Nov 2022_<br>
 
 > •	Collaborated with team of 6 to develop first release of a learning journey planning system with Python Flask framework using Agile and DevOps practices with Jira.  
