@@ -1,36 +1,8 @@
-### Projects (2022)
+Hi! Please visit my site at https://r-ls.github.io/R-LS/ for my portfolio and blog
 
-**IS442 Object Oriented Programming**	<br>
-_Aug 2022 - Nov 2022_<br>
-
-> •	Collaborated with team of 6 to create a corporate pass loaning system with Springboot, Java, NextJS, ReactJS and MUI for Singapore Sports School as part of their employee welfare, which allows employees to make card bookings for attraction visits, admins to manage users, track card collection and return, and sends automated notifications.
->>**Frontend Development**<br>
- •	Devised and developed page skeleton code, common components in ReactJS, API integration with React Query and implementing security with route guarding and user access control with JWT Tokens in middleware.
-
-**IS212 Software Project Management**	| [github](https://github.com/is212g4t5/learning-journey-planning-system)<br>
-_Aug 2022 - Nov 2022_<br>
-
-> •	Collaborated with team of 6 to develop first release of a learning journey planning system with Python Flask framework using Agile and DevOps practices with Jira.  
-> > **Backend Development**<br>
-> •	Development of APIs, automated unit testing configurations and code with Pytest.
-
-
-**IS214 Digital Business and Technological Transformation Project** | [video](youtu.be/-7wbLxnPB_U)<br>
-_Mar 2022 - Apr 2022_<br>
-
-> •	Create prototype of voice assistant mobile app, SMU.AI, aimed to help improve students’ quality of life by improving accessibility.  
-> > **UI/UX Design**<br>
-> > •	Designed UI with Figma, of over 40 screens with animations, and created video to showcase app.
-
-
-**IS213 Enterprise Solution Development Project** | [github](https://github.com/jacky-teo/OnlyArt)<br> 
-_Feb 2022 - Apr 2022_<br>
-
-> •	Collaborated with team of 6 to develop a subscription app comprised of microservices using Python, Flask, Javascript, SQL and Docker for deployment, that allows content creators to create content locked behind a paywall, and subscribers to engage with the content.
-> > **Backend Development**<br>
-> > •	Devised and developed notification module using Telegram API.
-
-
+- 🔭 I use Javascript and Python the most. I’m currently working on a website to promote artists, and its admin management site
+- 🌱 I’m currently learning Data Structures and Algorithms
+- ⚡ Fun fact: I really, really like penguins
 
 <!--
 **R-LS/R-LS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
