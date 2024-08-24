@@ -1,0 +1,63 @@
+baseURL: 
+languageCode: en-us
+title: R-LS Site & Blog
+theme: ["PaperMod"]
+params: 
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  homeInfoParams:
+    Title: "Welcome to my site!"
+    Content: |
+      This site is my personal blog and portfolio. I write about my projects, experiences and thoughts, as well as stuff I tried inbetween.  
+      I code most with Javascript(ReactJS, NexttJS) and Python to make bots and other fun data stuff.
+      &nbsp;
+
+      &nbsp;
+      # Project Experience
+      **IS Project Experience**  
+      _Jan 2024 - May 2024_  
+      • Collaborated with team of 6 to create a volunteer management system for Serving in Mission (SIM Singapore), which allows project coordinators to manage volunteers and coordinate projects. Consists of a frontend web/user module built with Python Flask and React JS with Vite, and backend and notification modules supported by Power Automate flows and Microsoft ecosystem(apps such as Outlook, To-Do etc.).
+      >**Solution Architect, Full Stack Development**
+      • Responsible for solution architecture from proposal, tech stacks, to design and development of modules, and integration with Microsoft ecosystem.  
+      • Primary developer for frontend modules in ReactJS  
+      • Web security implementation and configuration through Microsoft SSO (Azure Entra ID) including issuing of access tokens and Python Flask middleware for token verification and APIs  
+      • Designed and built complex system scheduler functions, automated notifications in Power Automate
+
+      
+      **IS442 Object Oriented Programming**  
+      _Aug 2022 - Nov 2022_  
+      • Collaborated with team of 6 to create a corporate pass loaning system with Springboot, Java, NextJS, ReactJS and MUI for Singapore Sports School as part of their employee welfare, which allows employees to make card bookings for attraction visits, admins to manage users, track card collection and return, and sends automated notifications.
+      >**Frontend Development**
+      • Devised and developed page skeleton code, common components in ReactJS, API integration with React Query and implementing security with route guarding and user access control with JWT Tokens in middleware.  
+      
+      **IS212 Software Project Management**	| [github](https://github.com/is212g4t5/learning-journey-planning-system)  
+      _Aug 2022 - Nov 2022_  
+      •	Collaborated with team of 6 to develop first release of a learning journey planning system with Python Flask framework using Agile and DevOps practices with Jira.  
+      >**Backend Development**
+      •	Development of APIs, automated unit testing configurations and code with Pytest.  
+
+      **IS214 Digital Business and Technological Transformation Project** | [video](youtu.be/-7wbLxnPB_U)  
+      _Mar 2022 - Apr 2022_  
+      •	Create prototype of voice assistant mobile app, SMU.AI, aimed to help improve students’ quality of life by improving accessibility.  
+      >**UI/UX Design**
+      •	Designed UI with Figma, of over 40 screens with animations, and created video to showcase app.  
+
+      **IS213 Enterprise Solution Development Project** | [github](https://github.com/jacky-teo/OnlyArt)  
+      _Feb 2022 - Apr 2022_  
+      •	Collaborated with team of 6 to develop a subscription app comprised of microservices using Python, Flask, Javascript, SQL and Docker for deployment, that allows content creators to create content locked behind a paywall, and subscribers to engage with the content.  
+      >**Backend Development**
+      •	Devised and developed notification module using Telegram API.
+menu:
+  main:
+    - identifier: archives
+      name: BLOG
+      url: /archives/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: tags/
+      weight: 20
+    - identifier: github
+      name: My GitHub
+      url: https://github.com/R-LS
+      weight: 30
