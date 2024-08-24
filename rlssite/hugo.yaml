@@ -3,6 +3,9 @@ languageCode: en-us
 title: R-LS Site & Blog
 theme: ["PaperMod"]
 params: 
+  analytics:
+    google:
+      SiteVerificationTag: "G-CW93V4Z26S"
   ShowBreadCrumbs: true
   ShowReadingTime: true
   homeInfoParams:
