@@ -4,6 +4,7 @@ Hi! Please visit my site at https://r-ls.github.io/R-LS/ for my portfolio and bl
 - 🌱 I’m currently learning Data Structures and Algorithms
 - ⚡ Fun fact: I really, really like penguins
 
+- I have been actively working on two repositories in the past two years but they are private (Discord.py bot, Website)
 <!--
 **R-LS/R-LS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
