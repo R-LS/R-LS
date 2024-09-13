@@ -1,4 +1,5 @@
-Hi! Please visit my site at https://r-ls.github.io/R-LS/ for my portfolio and blog
+Hi! I'm a long time self-taught artist, and i found my passion in building stuff with code as well after learning coding in in 2020 :D 
+Please visit my site at https://r-ls.github.io/R-LS/ for my portfolio and blog
 
 - 🔭 I use Javascript and Python the most. I’m currently working on a website to promote artists, and its admin management site
 - 🌱 I’m currently learning Data Structures and Algorithms
