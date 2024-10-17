@@ -19,10 +19,11 @@ Behold, the creation of Steve:
 ###### Steve is inspired by the popular meme "and your friend Steve" and [that one seagull in the penguin enclosure](https://vt.tiktok.com/ZS2MAyDXM)  
 Steve runs on Scheduled Flows on Power Automate, which runs twice a week for our standup check-ins and once a week reminding us to do our FYP reflections. Steve's notifications can be easily configured through the Scheduled Flow and don't require a server or scheduler unlike how Telegram bots would traditionally be run.
 
-### How Steve Works
-You'll need to use Power Automate for this: https://make.powerautomate.com/  
+### How Steve Works: Quick Overview
+You'll need to use Power Automate and Telegram for this: https://make.powerautomate.com/  
 Quick Overview:
 ![Scheduled Flow](./images/flow.png)
+### Power Automate: Creating the Custom Connector
 The flow shown above uses a custom connector, which you will need to create yourself, but I'll share my settings here:
 ![Custom Connector](./images/custom_ss.png)
 You can name your custom connector as you like, i chose "Telegram Message API":
@@ -37,9 +38,10 @@ Your `body` will require `chat_id`(string) and `text` variables, like this:
 {"chat_id":"<insert telegram chat ID>",
 "text":"hi from steve :)"}
 ```
-
+### Telegram : Setup (omitted)
 Before moving on to create the scheduled flow, ensure that you have a Telegram Bot created with [BotFather](https://t.me/botfather) and have the API token for your bot, as well as the chat ID you want to send messages to(can be obtained by following any tutorial out there)
 
+### Power Automate: Creating the Scheduled Flow
 Now create your scheduled flow:
 1) Select "Scheduled Flow"
 ![Flow Step 1](./images/flow_1.png)
@@ -55,6 +57,7 @@ Now you can test your bot by clicking on the "Test" button on the top right and 
 
 And there you have it. Steve will now send you scheduled reminders according to your preferences.
 
+### Reactions and Final Comments
 I wanted to add some flair to Steve, and so the resulting messages followed:
 ![Steve Standup Message](./images/steve_standup.png)
 ![Steve Reminder](./images/steve_remind.png)
