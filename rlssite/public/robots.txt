@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://r-ls.github.io/sitemap.xml

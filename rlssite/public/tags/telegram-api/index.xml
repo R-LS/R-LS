@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Telegram API on R-LS Site</title>
+    <link>https://r-ls.github.io/tags/telegram-api/</link>
+    <description>Recent content in Telegram API on R-LS Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 R-LS</copyright>
+    <lastBuildDate>Fri, 23 Aug 2024 22:45:47 +0800</lastBuildDate><atom:link href="https://r-ls.github.io/tags/telegram-api/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Steve the Reminder Bot</title>
+      <link>https://r-ls.github.io/posts/steve/</link>
+      <pubDate>Fri, 23 Aug 2024 22:45:47 +0800</pubDate>
+      
+      <guid>https://r-ls.github.io/posts/steve/</guid>
+      <description>Need a solution for creating a quick telegram notification bot and don&amp;rsquo;t want to have to host one?</description>
+      
+    </item>
+    
+  </channel>
+</rss>
