@@ -1,3 +1,7 @@
 [submodule "rlssite/themes/PaperMod"]
 	path = rlssite/themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "rlssite/themes/blowfish"]
+	path = rlssite/themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main
