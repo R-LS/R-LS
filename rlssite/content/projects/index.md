@@ -23,6 +23,14 @@ showZenMode: true
 ## Project Management, Software/Web Development
 {{< timeline >}}
 
+{{< timelineItem icon="lock" header="RAG Project" badge="Jan 2025 ~" subheader="Developer" >}}
+<div class="tech-icons">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python"/>
+</div>
+• Classification + RAG Bot Project utilising Langchain, Ollama, Deepseek, Llama and Hugging Face models
+
+{{< /timelineItem >}}
+
 {{< timelineItem icon="lock" header="IS Project Experience (FYP)" badge="Jan 2024 - May 2024" subheader="Solution Architect, Full Stack Developer" >}}
 <div class="tech-icons">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" />
